@@ -1,7 +1,7 @@
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+/*/Binaries/**
+/*/Saved/**
+/*/Intermediate/**
+/*/DerivedDataCache/**
 
 # Ignore project files in the root
 /*.sln
