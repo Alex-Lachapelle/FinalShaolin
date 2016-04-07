@@ -9,6 +9,7 @@
   <BuildProducts>
     <BuildProduct Path="$(ProjectDir)\Binaries\Win64\The_36th_Chamber.exe" Type="Executable" />
     <BuildProduct Path="$(ProjectDir)\Binaries\Win64\The_36th_Chamber.pdb" Type="SymbolFile" />
+    <BuildProduct Path="$(ProjectDir)\Plugins\LoadingScreen-master\Binaries\Win64\UE4-LoadingScreen.lib" Type="StaticLibrary" />
   </BuildProducts>
   <RuntimeDependencies>
     <RuntimeDependency Path="$(EngineDir)/Binaries/ThirdParty/PhysX/PhysX-3.3/Win64/VS2015/PhysX3PROFILE_x64.dll" />
