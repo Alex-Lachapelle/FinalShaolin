@@ -2,6 +2,7 @@
 /*/Saved/**
 /*/Intermediate/**
 /*/DerivedDataCache/**
+/*/Plugins/**
 
 # Ignore project files in the root
 /*.sln
